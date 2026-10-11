@@ -15,7 +15,7 @@ This is designed as a low-overhead, distributed ministry: volunteer hosts carry 
 
 ## Purpose
 
-We are strong at mobilizing people for ministry, but weaker at creating unhurried space for relationships to deepen.  As a result, people can be highly involved and still feel unknown.  Hospitality Groups are designed to address that gap by creating regular, low-overhead settings where people are valued for who they are, not only for what they do. This initiative aims to strengthen the **relational** fabric — one of our core values — of the church without increasing leadership load.
+We are strong at mobilizing people for ministry, but weaker at creating unhurried space for relationships to deepen.  As a result, people can be highly involved and still feel unknown.  Hospitality Groups are designed to address that gap by creating regular, low-overhead settings where people are valued for who they are, not only for what they do. This initiative aims to strengthen the **relational** fabric — one of our core values — without increasing leadership load.
 
 ## Problem / Opportunity
 
@@ -39,9 +39,9 @@ The flow is intentionally simple. A potential host brings a group idea to the Ho
 
 From there, church members discover and join groups by interest through normal visibility channels and periodic reminders. After sufficient interest accumulates in group registration — this could take a while — the host offers one or more "feeler" events.
 
-Feeler events are low-stakes, try-before-commitment gatherings. Based on how that goes, registrants may choose whether to sign up for a fixed-session series that follows (as described in the group vision). **The series is a stable cohort: the same participants gather repeatedly across the season.** Series are not too long (think 4-8 sessions), depending on the activity. This regularity is the core relational engine: repeated gatherings (weekly, biweekly, etc.) with the same people, where deeper connection can form.
+Feeler events are low-stakes, try-before-commitment gatherings. Based on how that goes, registrants may choose whether to sign up for a fixed-session series that follows (as described in the group vision). **A series is a stable cohort: the same participants gather repeatedly across the season.** Series are not too long (think 4-8 sessions), depending on the activity. This regularity is the core relational engine: repeated gatherings (weekly, biweekly, etc.) with the same people, where deeper connection can form.
 
-Series are intentionally seasonal. After a season ends, there are planned lulls or off-seasons before another season is offered. The design is occasional opportunity, not high-frequency obligation.
+Series are intentionally seasonal and intermittent.  There are planned lulls and off-season gaps. The design is occasional opportunity, not high-frequency obligation.
 
 Events are driven by RSVPs (using Planning Center registrations), and attendance limits are set by each host based on format, venue, and relational goals. Hosts may keep events intentionally small to foster deeper intimacy, choose a larger cap, or use no cap when appropriate. Some events may be scheduled at the church, some in homes, and some elsewhere, depending on the group.
 
@@ -68,13 +68,9 @@ Initial implementation uses Planning Center Groups and Planning Center Registrat
 
 A dedicated `Hospitality` category will be created under Planning Center Groups so this lane is clearly separated and filterable.
 
-### Policy
+### Screening Policy
 
-Hospitality Groups are relational, not doctrinal-teaching groups.
-
-- groups must not function as venues for teaching the flock on biblical or moral issues
-- any proposed group that includes doctrinal or moral instruction is out of scope for this ministry lane
-- if a proposal touches that lane, it must be referred for elder review and approval before proceeding
+Hospitality Groups are relational, not doctrinal-teaching groups.  Any proposed group which involves teaching the flock on biblical or moral issues will be referred to the elders for the usual vetting process.
 
 ### Pre-Launch Infrastructure
 
@@ -93,8 +89,7 @@ I serve as the primary admin and operational owner for this initiative.
 
 I will:
 
-- receive and vet host ideas for fit and appropriateness, including policy-boundary screening
-- refer any proposal involving biblical/moral teaching to elders for review and approval before proceeding
+- receive and vet host ideas for fit and appropriateness passing anything subject to the screening policy to the elders
 - create Hospitality-category groups in Planning Center
 - onboard and train hosts
 - shepherd hosts over time
@@ -169,7 +164,7 @@ Secondary indicators (hosts, registrants, feelers) are useful leading signals, b
 
 Groups may remain quiet for long periods, or close without being treated as failure. Group turnover is expected in an organic, opt-in model.
 
-Ministry-level concern is triggered only if it consistently fails to generate a healthy # of series.
+Ministry-level concern is triggered only if it consistently fails to generate a healthy number of series.
 
 Host burnout is not a risk in this design because the model is seasonal, low-pressure, and hosts may pause or close groups at will.
 
