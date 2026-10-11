@@ -227,7 +227,9 @@ I believe our church sincerely wants to be **relational**, and I agree with that
 
 That has been my experience. I have been present, involved, and committed for a long time, yet meaningful friendship has often remained out of reach. I am not saying this is everyone’s experience. I am saying it is real for some of us, and those people matter too.
 
-I believe one reason is structural. Much of church life is oriented around service, programs, and ministry operations. Serving is good and biblical. Churches should serve. But when most pathways are duty-oriented, people can be seen mainly for instrumental value—what they can do—rather than intrinsic value—who they are. In that environment, we may notice people without deeply knowing them.
+I believe one reason is structural. Much of church life is oriented around service, programs, and ministry operations. Serving is good and biblical. Churches should serve. But healthy church life also needs a give-and-take rhythm: breath out and breath in, empty cup and fill cup. When most visible pathways are need-based ("we need you"), and fewer spaces are simply relational ("we enjoy you"), ministry can feel lopsided. In that environment, people can be seen mainly for instrumental value—what they can do—rather than intrinsic value—who they are.
+
+I do not mean service causes burnout by itself. I mean burnout can be a symptom of imbalance: too much emptying without enough refilling through ordinary closeness and friendship that exists apart from task and output.
 
 A greeter can say, “I see you.” That matters. But notice is not the same as depth. A brief touchpoint once in a while cannot substitute for repeated conversation over time. If no one is ever close enough to know you beyond role and function, then relational ministry has not gone far enough.
 
