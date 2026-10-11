@@ -25,7 +25,7 @@ Current touchpoints often create warm but brief interaction. They are meaningful
 
 The gap is not activity; the gap is intimacy. For some people, most existing pathways feel duty-heavy and cup-emptying rather than relationally renewing. Over time, this can produce relationships that remain thin and situational.
 
-Hospitality Groups address this gap through interest-based, repeatable gatherings where people can know and be known over time. The opportunity is to create a complementary relational lane that strengthens church connection without replacing existing ministries and without increasing leadership burden.
+Hospitality Groups address this gap through interest-based, repeatable gatherings where people can know and be known over time. The opportunity is to create a complementary relational lane that strengthens church connection.
 
 ## Proposed Solution
 
@@ -39,17 +39,15 @@ The flow is intentionally simple. A potential host brings a group idea to the Ho
 
 From there, church members discover and join groups by interest through normal visibility channels and periodic reminders. After sufficient interest accumulates in group registration — this could take a while — the host offers one or more "feeler" events.
 
-Feeler events are low-stakes, try-before-commitment gatherings. Based on how that goes, registrants may choose whether to sign up for a fixed-session series that follows (as already described in the group vision). Series are intentionally expect between 4-8 sessions, depending on the activity. The series is the primary value proposition: repeated gatherings (weekly, biweekly, etc.) with familiar people, where deeper connection can form.
+Feeler events are low-stakes, try-before-commitment gatherings. Based on how that goes, registrants may choose whether to sign up for a fixed-session series that follows (as described in the group vision). Series are intentionally 4-8 sessions, depending on the activity. The series is the primary value proposition: repeated gatherings (weekly, biweekly, etc.) with familiar people, where deeper connection can form.
 
 Series are intentionally seasonal. After a season ends, there are planned lulls or off-seasons before another season is offered. The design is occasional opportunity, not high-frequency obligation.
 
-The events are driven by RSVPs (using Planning Center registrations), with attendance limits may be set by each host based on format, venue, and relational goals. Hosts may keep events intentionally small to foster deeper intimacy, choose a larger cap, or use no cap when appropriate.  Some events may be scheduled at the church, some in homes, some elsewhere, depending on the group.
+Events are driven by RSVPs (using Planning Center registrations), and attendance limits are set by each host based on format, venue, and relational goals. Hosts may keep events intentionally small to foster deeper intimacy, choose a larger cap, or use no cap when appropriate. Some events may be scheduled at the church, some in homes, and some elsewhere, depending on the group.
 
 Like a club model, groups may also define a clear demographic fit (for example couples, men, women, families, or shared life stage). This is not exclusion for its own sake; it is a way to improve relational fit and conversational depth.
 
-This model does not replace existing ministries or recruit by pressure. It adds a low-overhead relational lane where people gather by desire, not obligation, and where intimacy has room to grow.
-
-As a matter of policy, Hospitality Groups are not a lane for teaching the flock on biblical or moral issues. That lane remains separate and requires elder approval.
+This model does not recruit by pressure. It adds a low-overhead relational lane where people gather by desire, not obligation, and where intimacy has room to grow.
 
 Illustrative Hospitality Group concepts are listed in Appendix A. Exploratory future service concepts are listed in Appendix B.
 
@@ -113,8 +111,7 @@ Hosts will:
 - initiate conversation in their group
 - create and run hospitality events using Registrations
 - move from feelers to series only when enough interest is present
-- set attendance caps that fit their format and relational goals (including intentionally small caps when desired)
-- avoid framing or running the group as a venue for teaching biblical or moral issues (that requires elder-approved channels)
+- apply the event attendance-limit approach published in their Group Vision
 
 #### Group Vision (Host-defined)
 
@@ -142,11 +139,9 @@ Ongoing communications (once per trimester):
 - reinforce where people can browse and join
 - optionally echo in bulletin and other church communication channels
 
-This is awareness-building, not pressure recruitment. The model is marketing-driven: making cup-filling opportunities visible so people can opt in by genuine interest.
+This is awareness-building, not pressure recruitment: making opportunities visible so people can opt in by genuine interest.
 
 ### Reporting and Review
-
-There is no heavy ongoing leadership management required in this model.
 
 I will provide a list of newly launched groups each trimester for the announcement.
 
@@ -195,11 +190,11 @@ The examples below are illustrative. They exist to help people imagine the range
 - **Jazz Listening Circle**
 - **[Salon](https://thesalonhost.com/how-to-choose-a-tantalizing-salon-topic/) Discussion**
 
-## Appendix B: Service Group Examples (Future Initiative)
+## Appendix B: Service Group Examples
 
 **Lane Definition (Instrumental Value):** Service Groups exist to offer specific acts of help through host-initiated, seasonal opportunities. They are not intimacy-circle substitutes, though relationship can still grow through serving together.
 
-These are exploratory ideas for a potential future initiative that applies a low-pressure, seasonal model to service opportunities.
+These are exploratory ideas for a *potential future initiative* that applies a low-pressure, seasonal model to service opportunities.
 
 This lane should only be considered after Hospitality Groups has demonstrated success. The current church baseline already contains many service-oriented pathways (serving or being served). Launching service groups too early risks reinforcing the same message: that a person's value is primarily tied to output. The priority of this proposal is to first establish a durable intrinsic-value lane where people are enjoyed, known, and connected apart from performance.
 
@@ -228,7 +223,7 @@ Because this is future-facing, it is treated as optional and experimental rather
 
 What works for many does not work for everyone.
 
-I believe our church sincerely wants to be relational, and I agree with that conviction wholeheartedly. But for some of us, many church social spaces are cup-emptying rather than cup-filling. That does not mean we dislike people. It means we are wired differently. Small talk can feel like work, large-group settings can feel noisy, and connection can remain surface-level even after years of regular involvement.
+I believe our church sincerely wants to be **relational**, and I agree with that conviction wholeheartedly. But for some of us, many church social spaces are cup-emptying rather than cup-filling. That does not mean we dislike people. It means we are wired differently. Small talk can feel like work, large-group settings can feel noisy, and connection can remain surface-level even after years of regular involvement.
 
 That has been my experience. I have been present, involved, and committed for a long time, yet meaningful friendship has often remained out of reach. I am not saying this is everyone’s experience. I am saying it is real for some of us, and those people matter too.
 
