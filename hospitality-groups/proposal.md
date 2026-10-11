@@ -233,7 +233,7 @@ I do not mean service causes burnout by itself. I mean burnout can be a symptom 
 
 A greeter can say, “I see you.” That matters. But notice is not the same as depth. A brief touchpoint once in a while cannot substitute for repeated conversation over time. If no one is ever close enough to know you beyond role and function, then relational ministry has not gone far enough.
 
-Jesus said, “By this all people will know that you are my disciples, if you have love for one another.” Service is one expression of that love. But I believe another expression is just as important: enjoying one another as people, not projects. Not recruiting. Not extracting output. Simply making room for knowing and being known.
+Jesus said, “By this all people will know that you are my disciples, if you have love for one another.” That kind of witness is strongest when love is not only organized around need, but also embodied in ordinary closeness. Service is one expression of that love. But another expression is just as important: enjoying one another as people, not projects—making room for knowing and being known apart from output.
 
 Hospitality Groups are designed to create that room. Shared interests give people a natural center of gravity. Small, repeat gatherings lower social pressure. Seasonal structure keeps it sustainable. These groups are not one more thing you must do, but an opportunity to connect with others around something you want to do, and probably are doing anyway.
 
