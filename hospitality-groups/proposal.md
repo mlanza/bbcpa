@@ -15,10 +15,7 @@ This is designed as a low-overhead, distributed ministry: volunteer hosts carry 
 
 ## Purpose
 
-We are strong at mobilizing people for ministry, but weaker at creating unhurried space for relationships to deepen.
-As a result, people can be highly involved and still feel unknown.
-Hospitality Groups are designed to address that gap by creating regular, low-overhead settings where people are valued for who they are, not only for what they do.
-This initiative aims to strengthen the relational fabric of the church without increasing leadership load.
+We are strong at mobilizing people for ministry, but weaker at creating unhurried space for relationships to deepen.  As a result, people can be highly involved and still feel unknown.  Hospitality Groups are designed to address that gap by creating regular, low-overhead settings where people are valued for who they are, not only for what they do. This initiative aims to strengthen the relational fabric of the church without increasing leadership load.
 
 ## Problem / Opportunity
 
@@ -40,15 +37,13 @@ Just as important, the point of gathering is not the activity alone but relation
 
 The flow is intentionally simple. A potential host brings a group idea to the Hospitality Groups Director. The idea is vetted for fit and appropriateness, then the group is created in Planning Center and the host is onboarded.
 
-From there, church members discover and join groups by interest through normal visibility channels and periodic reminders. As sufficient interest accumulates — and this allows for the possibility it could take a while — the host offers one or more "feeler" events.
+From there, church members discover and join groups by interest through normal visibility channels and periodic reminders. After sufficient interest accumulates in group registration — this could take a while — the host offers one or more "feeler" events.
 
-Feeler events are low-stakes, try-before-commitment gatherings. Their purpose is not event volume but discernment and relational fit.
-
-Based on how the feeler goes, registrants may choose whether to sign up for a fixed-session series that follows (as already described in the group vision). Series are intentionally expect between 4-8 sessions, depending on the activity. The series is the primary value proposition: repeated gatherings (weekly, biweekly, etc.) with familiar people, where deeper connection can form.
+Feeler events are low-stakes, try-before-commitment gatherings. Based on how that goes, registrants may choose whether to sign up for a fixed-session series that follows (as already described in the group vision). Series are intentionally expect between 4-8 sessions, depending on the activity. The series is the primary value proposition: repeated gatherings (weekly, biweekly, etc.) with familiar people, where deeper connection can form.
 
 Series are intentionally seasonal. After a season ends, there are planned lulls or off-seasons before another season is offered. The design is occasional opportunity, not high-frequency obligation.
 
-The events are driven by RSVPs (using Planning Center registrations), with attendance limits set by each host based on format, venue, and relational goals. Hosts may keep events intentionally small to foster deeper intimacy, choose a larger cap, or use no cap when appropriate.
+The events are driven by RSVPs (using Planning Center registrations), with attendance limits may be set by each host based on format, venue, and relational goals. Hosts may keep events intentionally small to foster deeper intimacy, choose a larger cap, or use no cap when appropriate.
 
 Like a club model, groups may also define a clear demographic fit (for example couples, men, women, families, or shared life stage). This is not exclusion for its own sake; it is a way to improve relational fit and conversational depth.
 
@@ -75,27 +70,13 @@ Initial implementation uses Planning Center Groups and Planning Center Registrat
 
 A dedicated `Hospitality` category will be created under Planning Center Groups so this lane is clearly separated and filterable.
 
-### Policy Boundary (Required)
+### Policy
 
 Hospitality Groups are relational, not doctrinal-teaching groups.
 
 - groups must not function as venues for teaching the flock on biblical or moral issues
 - any proposed group that includes doctrinal or moral instruction is out of scope for this ministry lane
 - if a proposal touches that lane, it must be referred for elder review and approval before proceeding
-
-### Group Description Template (Required)
-
-Each group must publish a clear description authored by the host. This creates expectation clarity before people register.
-
-Required fields:
-
-- purpose: why this group exists relationally
-- target demographic: who the group is designed for (for example couples, men, women, families, life stage, or open)
-- feeler format: what a feeler event is like and what attendees should expect
-- series format: what a series session is like and what attendees should expect
-- attendance limits: cap policy for events (intentionally small cap, larger cap, or no cap)
-
-Note on group size: Hosts are encouraged to think intentionally about size. Smaller gatherings often foster stronger intimacy, but this proposal does not require a fixed cap across all groups.
 
 ### Pre-Launch Infrastructure (Required)
 
@@ -127,13 +108,23 @@ Hosts own local execution within their approved group.
 
 Hosts will:
 
-- set and communicate group vision
-- author and maintain the required group description template fields (purpose, target demographic, feeler format, series format, and attendance-limit policy)
+- define and publish a clear **Group Vision** for their group (see required elements below)
+- receive and apply host training that treats shared interest as relational "glue," while intentionally creating space around the activity for meaningful connection
 - initiate conversation in their group
 - create and run hospitality events using Registrations
 - move from feelers to series only when enough interest is present
 - set attendance caps that fit their format and relational goals (including intentionally small caps when desired)
 - avoid framing or running the group as a venue for teaching biblical or moral issues (that requires elder-approved channels)
+
+#### Group Vision (Host-defined)
+
+Each group’s vision must clearly communicate what people are joining and what to expect.
+
+Required elements:
+
+- **purpose**: what the group is about and what attendees should expect to get out of the events; this may distinguish between feeler events and series events
+- **target demographic**: who the group is designed for (for example couples, men, women, families, life stage, or open)
+- **event attendance limits**: cap policy for events (intentionally small cap, larger cap, or no cap), stated thoughtfully based on relational aims and attendee fit; some people thrive in smaller settings while others connect better in larger ones
 
 ### Communications Support Role
 
@@ -200,7 +191,7 @@ The examples below are illustrative. They exist to help people imagine the range
 - **Book Discussion**
 - **Local Fishing**
 - **Watch Penn State Football**
-- **Movie Night**
+- **Chosen Watch Party** - e.g., full season
 - **Jazz Listening Circle**
 - **[Salon](https://thesalonhost.com/how-to-choose-a-tantalizing-salon-topic/) Discussion**
 
