@@ -2,7 +2,7 @@
 
 - **Church:** Bible Baptist Church
 - **Author:** Mario T. Lanza
-- **Date:** October 4, 2026
+- **Date:** October 11, 2026
 - **Audience:** Elders
 
 Working draft for elder review and approval.
@@ -15,7 +15,7 @@ This is designed as a low-overhead, distributed ministry: volunteer hosts carry 
 
 ## Purpose
 
-We are strong at mobilizing people for ministry, but weaker at creating unhurried space for relationships to deepen.  As a result, people can be highly involved and still feel unknown.  Hospitality Groups are designed to address that gap by creating regular, low-overhead settings where people are valued for who they are, not only for what they do. This initiative aims to strengthen the relational fabric of the church without increasing leadership load.
+We are strong at mobilizing people for ministry, but weaker at creating unhurried space for relationships to deepen.  As a result, people can be highly involved and still feel unknown.  Hospitality Groups are designed to address that gap by creating regular, low-overhead settings where people are valued for who they are, not only for what they do. This initiative aims to strengthen the **relational** fabric — one of our core values — of the church without increasing leadership load.
 
 ## Problem / Opportunity
 
@@ -31,7 +31,7 @@ Hospitality Groups address this gap through interest-based, repeatable gathering
 
 Hospitality Groups are interest-based relational groups designed to help people move from casual recognition to meaningful connection over time.
 
-Shared interest is not a side detail in this model; it is part of the relational engine. People often bond more naturally when they are enjoying the same thing together, because conversation has a real center of gravity. In that sense, shared interest helps move relationships from polite interaction toward mutual knowing. As C.S. Lewis observes in *The Four Loves*, friendship often begins when people discover they are turned toward the same thing.
+Shared interest is not a side detail in this model; it's the thing that draws people together. People often bond more naturally when they are enjoying the same thing together. In that sense, shared interest helps move relationships from polite interaction toward mutual knowing. As C.S. Lewis observes in *The Four Loves*, friendship often begins when people discover they are turned toward the same thing.
 
 Just as important, the point of gathering is not the activity alone but relationship. Groups must have a relational buffer around the activity so people have real opportunity to know and be known.
 
@@ -43,7 +43,7 @@ Feeler events are low-stakes, try-before-commitment gatherings. Based on how tha
 
 Series are intentionally seasonal. After a season ends, there are planned lulls or off-seasons before another season is offered. The design is occasional opportunity, not high-frequency obligation.
 
-The events are driven by RSVPs (using Planning Center registrations), with attendance limits may be set by each host based on format, venue, and relational goals. Hosts may keep events intentionally small to foster deeper intimacy, choose a larger cap, or use no cap when appropriate.
+The events are driven by RSVPs (using Planning Center registrations), with attendance limits may be set by each host based on format, venue, and relational goals. Hosts may keep events intentionally small to foster deeper intimacy, choose a larger cap, or use no cap when appropriate.  Some events may be scheduled at the church, some in homes, some elsewhere, depending on the group.
 
 Like a club model, groups may also define a clear demographic fit (for example couples, men, women, families, or shared life stage). This is not exclusion for its own sake; it is a way to improve relational fit and conversational depth.
 
@@ -201,7 +201,7 @@ The examples below are illustrative. They exist to help people imagine the range
 
 These are exploratory ideas for a potential future initiative that applies a low-pressure, seasonal model to service opportunities.
 
-This lane should only be considered after Hospitality Groups has demonstrated clear success. The current church baseline already contains many service-oriented pathways (serving or being served). Launching service groups too early risks reinforcing the same message: that a person's value is primarily tied to output. The priority of this proposal is to first establish a durable intrinsic-value lane where people are enjoyed, known, and connected apart from performance.
+This lane should only be considered after Hospitality Groups has demonstrated success. The current church baseline already contains many service-oriented pathways (serving or being served). Launching service groups too early risks reinforcing the same message: that a person's value is primarily tied to output. The priority of this proposal is to first establish a durable intrinsic-value lane where people are enjoyed, known, and connected apart from performance.
 
 - **Bethesda Mission Meal Service**
 - **Visitation**
@@ -223,3 +223,21 @@ A key added benefit is relational intention among participants themselves. In th
 This distinction matters: Service Groups center instrumental value (a service output), while Hospitality Groups center intrinsic value (being known, enjoyed, and relationally formed). Both can be good, but they are not the same lane and should not be conflated.
 
 Because this is future-facing, it is treated as optional and experimental rather than part of the initial launch scope.
+
+## Appendix C: Personal Motivation and Rationale
+
+What works for many does not work for everyone.
+
+I believe our church sincerely wants to be relational, and I agree with that conviction wholeheartedly. But for some of us, many church social spaces are cup-emptying rather than cup-filling. That does not mean we dislike people. It means we are wired differently. Small talk can feel like work, large-group settings can feel noisy, and connection can remain surface-level even after years of regular involvement.
+
+That has been my experience. I have been present, involved, and committed for a long time, yet meaningful friendship has often remained out of reach. I am not saying this is everyone’s experience. I am saying it is real for some of us, and those people matter too.
+
+I believe one reason is structural. Much of church life is oriented around service, programs, and ministry operations. Serving is good and biblical. Churches should serve. But when most pathways are duty-oriented, people can be seen mainly for instrumental value—what they can do—rather than intrinsic value—who they are. In that environment, we may notice people without deeply knowing them.
+
+A greeter can say, “I see you.” That matters. But notice is not the same as depth. A brief touchpoint once in a while cannot substitute for repeated conversation over time. If no one is ever close enough to know you beyond role and function, then relational ministry has not gone far enough.
+
+Jesus said, “By this all people will know that you are my disciples, if you have love for one another.” Service is one expression of that love. But I believe another expression is just as important: enjoying one another as people, not projects. Not recruiting. Not extracting output. Simply making room for knowing and being known.
+
+Hospitality Groups are designed to create that room. Shared interests give people a natural center of gravity. Small, repeat gatherings lower social pressure. Seasonal structure keeps it sustainable. These groups are not one more thing you must do, but an opportunity to connect with others around something you want to do, and probably are doing anyway.
+
+This is why I am proposing this. It is a complement for people who are currently under-served by existing social patterns. My hope is to help create settings where friendships can actually form, where people are valued beyond utility, and where love becomes visible not only in what we do for each other, but in how we choose to be with each other.
