@@ -39,7 +39,7 @@ The flow is intentionally simple. A potential host brings a group idea to the Ho
 
 From there, church members discover and join groups by interest through normal visibility channels and periodic reminders. After sufficient interest accumulates in group registration — this could take a while — the host offers one or more "feeler" events.
 
-Feeler events are low-stakes, try-before-commitment gatherings. Based on how that goes, registrants may choose whether to sign up for a fixed-session series that follows (as described in the group vision). Series are intentionally 4-8 sessions, depending on the activity. The series is the primary value proposition: repeated gatherings (weekly, biweekly, etc.) with familiar people, where deeper connection can form.
+Feeler events are low-stakes, try-before-commitment gatherings. Based on how that goes, registrants may choose whether to sign up for a fixed-session series that follows (as described in the group vision). **The series is a stable cohort: the same participants gather repeatedly across the season.** Series are not too long (think 4-8 sessions), depending on the activity. This regularity is the core relational engine: repeated gatherings (weekly, biweekly, etc.) with the same people, where deeper connection can form.
 
 Series are intentionally seasonal. After a season ends, there are planned lulls or off-seasons before another season is offered. The design is occasional opportunity, not high-frequency obligation.
 
@@ -60,7 +60,7 @@ This model has a clear lifecycle:
 1. host launches group
 1. allow time for group discovery and registrations and await critical mass
 1. host feeler
-1. host series
+1. host series (stable cohort repeats over time)
 
 ### Platform and Structure
 
@@ -76,7 +76,7 @@ Hospitality Groups are relational, not doctrinal-teaching groups.
 - any proposed group that includes doctrinal or moral instruction is out of scope for this ministry lane
 - if a proposal touches that lane, it must be referred for elder review and approval before proceeding
 
-### Pre-Launch Infrastructure (Required)
+### Pre-Launch Infrastructure
 
 Before launch, the following infrastructure must be in place:
 
@@ -87,7 +87,7 @@ Before launch, the following infrastructure must be in place:
 
 I will provide the content (vision and onboarding materials). Web support is needed to provide and configure the pages.
 
-### Hospitality Groups Director (My Role)
+### Hospitality Groups Director
 
 I serve as the primary admin and operational owner for this initiative.
 
@@ -113,7 +113,7 @@ Hosts will:
 - move from feelers to series only when enough interest is present
 - apply the event attendance-limit approach published in their Group Vision
 
-#### Group Vision (Host-defined)
+#### Group Vision
 
 Each group’s vision must clearly communicate what people are joining and what to expect.
 
@@ -173,9 +173,9 @@ Ministry-level concern is triggered only if it consistently fails to generate a 
 
 Host burnout is not a risk in this design because the model is seasonal, low-pressure, and hosts may pause or close groups at will.
 
-## Appendix A: Hospitality Group Examples
+## Appendix A: Example Hospitality Groups
 
-**Lane Definition (Intrinsic Value):** Hospitality Groups exist to help people be known, enjoy one another, and build intimacy over time through shared interests. They are not service-output channels and must not drift into instrumental ministry expectations.
+**Lane Definition (Intrinsic Value):** Hospitality Groups exist to help people be known, enjoy one another, and build intimacy over time through shared interests. They are not service-oriented (see Appendix B for that).
 
 The examples below are illustrative. They exist to help people imagine the range of relational opportunities this model can support.
 
@@ -190,7 +190,7 @@ The examples below are illustrative. They exist to help people imagine the range
 - **Jazz Listening Circle**
 - **[Salon](https://thesalonhost.com/how-to-choose-a-tantalizing-salon-topic/) Discussion**
 
-## Appendix B: Service Group Examples
+## Appendix B: Example Service Groups
 
 **Lane Definition (Instrumental Value):** Service Groups exist to offer specific acts of help through host-initiated, seasonal opportunities. They are not intimacy-circle substitutes, though relationship can still grow through serving together.
 
