@@ -28,11 +28,11 @@ Current touchpoints often create warm but brief interaction. They are meaningful
 
 The gap is not activity; the gap is intimacy. For some people, most existing pathways feel duty-heavy and cup-emptying rather than relationally renewing. Over time, this can produce relationships that remain thin and situational.
 
-Hospitality Groups address this gap through small, interest-based, repeatable gatherings where people can know and be known over time. The opportunity is to create a complementary relational lane that strengthens church connection without replacing existing ministries and without increasing leadership burden.
+Hospitality Groups address this gap through interest-based, repeatable gatherings where people can know and be known over time. The opportunity is to create a complementary relational lane that strengthens church connection without replacing existing ministries and without increasing leadership burden.
 
 ## Proposed Solution
 
-Hospitality Groups are small, interest-based relational groups designed to help people move from casual recognition to meaningful connection over time.
+Hospitality Groups are interest-based relational groups designed to help people move from casual recognition to meaningful connection over time.
 
 Shared interest is not a side detail in this model; it is part of the relational engine. People often bond more naturally when they are enjoying the same thing together, because conversation has a real center of gravity. In that sense, shared interest helps move relationships from polite interaction toward mutual knowing. As C.S. Lewis observes in *The Four Loves*, friendship often begins when people discover they are turned toward the same thing.
 
@@ -48,11 +48,13 @@ Based on how the feeler goes, registrants may choose whether to sign up for a fi
 
 Series are intentionally seasonal. After a season ends, there are planned lulls or off-seasons before another season is offered. The design is occasional opportunity, not high-frequency obligation.
 
-The events are driven by RSVPs (using Planning Center registrations) and capped, typically 4–8 people. Think a single table or minivan of people as the size constraint that makes intimacy possible.
+The events are driven by RSVPs (using Planning Center registrations), with attendance limits set by each host based on format, venue, and relational goals. Hosts may keep events intentionally small to foster deeper intimacy, choose a larger cap, or use no cap when appropriate.
 
 Like a club model, groups may also define a clear demographic fit (for example couples, men, women, families, or shared life stage). This is not exclusion for its own sake; it is a way to improve relational fit and conversational depth.
 
 This model does not replace existing ministries or recruit by pressure. It adds a low-overhead relational lane where people gather by desire, not obligation, and where intimacy has room to grow.
+
+As a matter of policy, Hospitality Groups are not a lane for teaching the flock on biblical or moral issues. That lane remains separate and requires elder approval.
 
 Illustrative Hospitality Group concepts are listed in Appendix A. Exploratory future service concepts are listed in Appendix B.
 
@@ -73,6 +75,28 @@ Initial implementation uses Planning Center Groups and Planning Center Registrat
 
 A dedicated `Hospitality` category will be created under Planning Center Groups so this lane is clearly separated and filterable.
 
+### Policy Boundary (Required)
+
+Hospitality Groups are relational, not doctrinal-teaching groups.
+
+- groups must not function as venues for teaching the flock on biblical or moral issues
+- any proposed group that includes doctrinal or moral instruction is out of scope for this ministry lane
+- if a proposal touches that lane, it must be referred for elder review and approval before proceeding
+
+### Group Description Template (Required)
+
+Each group must publish a clear description authored by the host. This creates expectation clarity before people register.
+
+Required fields:
+
+- purpose: why this group exists relationally
+- target demographic: who the group is designed for (for example couples, men, women, families, life stage, or open)
+- feeler format: what a feeler event is like and what attendees should expect
+- series format: what a series session is like and what attendees should expect
+- attendance limits: cap policy for events (intentionally small cap, larger cap, or no cap)
+
+Note on group size: Hosts are encouraged to think intentionally about size. Smaller gatherings often foster stronger intimacy, but this proposal does not require a fixed cap across all groups.
+
 ### Pre-Launch Infrastructure (Required)
 
 Before launch, the following infrastructure must be in place:
@@ -90,7 +114,8 @@ I serve as the primary admin and operational owner for this initiative.
 
 I will:
 
-- receive and vet host ideas for fit and appropriateness (and send to governance if necessary)
+- receive and vet host ideas for fit and appropriateness, including policy-boundary screening
+- refer any proposal involving biblical/moral teaching to elders for review and approval before proceeding
 - create Hospitality-category groups in Planning Center
 - onboard and train hosts
 - shepherd hosts over time
@@ -103,9 +128,12 @@ Hosts own local execution within their approved group.
 Hosts will:
 
 - set and communicate group vision
+- author and maintain the required group description template fields (purpose, target demographic, feeler format, series format, and attendance-limit policy)
 - initiate conversation in their group
 - create and run hospitality events using Registrations
 - move from feelers to series only when enough interest is present
+- set attendance caps that fit their format and relational goals (including intentionally small caps when desired)
+- avoid framing or running the group as a venue for teaching biblical or moral issues (that requires elder-approved channels)
 
 ### Communications Support Role
 
