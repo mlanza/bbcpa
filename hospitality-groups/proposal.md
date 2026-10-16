@@ -37,13 +37,13 @@ Just as important, the point of gathering is not the activity alone but relation
 
 The flow is intentionally simple. A potential host brings a group idea to the Hospitality Groups Director. The idea is vetted for fit and appropriateness, then the group is created in Planning Center and the host is onboarded.
 
-From there, church members discover and join groups by interest through normal visibility channels and periodic reminders. After sufficient interest accumulates in group registration — this could take a while — the host offers one or more "feeler" events.
+From there, church members discover and join groups by interest through normal visibility channels and periodic reminders. Hosts may offer **sessions** and/or **series** depending on the group.
 
-Feeler events are low-stakes, try-before-commitment gatherings. Based on how that goes, registrants may choose whether to sign up for a fixed-session series that follows (as described in the group vision). **A series is a stable cohort: the same participants gather repeatedly across the season.** Series are not too long (think 4-8 sessions), depending on the activity. This regularity is the core relational engine: repeated gatherings (weekly, biweekly, etc.) with the same people, where deeper connection can form.
+A **session** is a one-time gathering. A **series** is a chain of connected sessions with the same registrants across the season. Series are not too long (think 4-8 sessions), depending on the activity.
 
-Series are intentionally seasonal and intermittent.  There are planned lulls and off-season gaps. The design is occasional opportunity, not high-frequency obligation.
+Series are intentionally seasonal and intermittent. There are planned lulls and off-season gaps. Some groups may use sessions only; others may use sessions first and then offer a series later.
 
-Events are driven by RSVPs (using Planning Center registrations), and attendance limits are set by each host based on format, venue, and relational goals. Hosts may keep events intentionally small to foster deeper intimacy, choose a larger cap, or use no cap when appropriate. Some events may be scheduled at the church, some in homes, and some elsewhere, depending on the group.
+Sessions and series are driven by RSVPs (using Planning Center registrations), and attendance limits are set by each host based on format, venue, and group goals. The cap gives the host a way to keep the gathering within a reasonable size rather than open-ended attendance. Hosts may keep gatherings intentionally small, choose a larger cap, or use no cap when appropriate. Some gatherings may be scheduled at the church, some in homes, and some elsewhere, depending on the group.
 
 Like a club model, groups may also define a clear demographic fit (for example couples, men, women, families, or shared life stage). This is not exclusion for its own sake; it is a way to improve relational fit and conversational depth.
 
@@ -58,8 +58,8 @@ Illustrative Hospitality Group concepts are listed in Appendix A. Exploratory fu
 This model has a clear lifecycle:
 
 1. host launches group
-1. allow time for group discovery and registrations and await critical mass
-1. host feeler
+1. allow time for group discovery and registrations
+1. host session(s)
 1. host series (stable cohort repeats over time)
 
 ### Platform and Structure
@@ -77,7 +77,7 @@ Hospitality Groups are relational, not doctrinal-teaching groups.  Any proposed 
 Before launch, the following infrastructure must be in place:
 
 - a Hospitality Groups page where people can discover groups and sign up
-- a Hospitality Events page where people can view and register for events
+- a Hospitality Sessions page where people can view and register for sessions
 - clear navigation and visibility from normal church communication channels
 - space on the Hospitality Groups page for vision, host onboarding guidance, and my contact information
 
@@ -104,9 +104,9 @@ Hosts will:
 - define and publish a clear **Group Vision** for their group (see required elements below)
 - receive and apply host training that treats shared interest as relational "glue," while intentionally creating space around the activity for meaningful connection
 - initiate conversation in their group
-- create and run hospitality events using Registrations
-- move from feelers to series only when enough interest is present
-- apply the event attendance-limit approach published in their Group Vision
+- create and run hospitality sessions and series using Registrations
+- move from sessions to series only when enough interest is present
+- apply the session attendance-limit approach published in their Group Vision
 
 #### Group Vision
 
@@ -114,9 +114,9 @@ Each group’s vision must clearly communicate what people are joining and what 
 
 Required elements:
 
-- **purpose**: what the group is about and what attendees should expect to get out of the events; this may distinguish between feeler events and series events
+- **purpose**: what the group is about and what attendees should expect to get out of the sessions; this may distinguish between sessions only and sessions that are part of a series
 - **target demographic**: who the group is designed for (for example couples, men, women, families, life stage, or open)
-- **event attendance limits**: cap policy for events (intentionally small cap, larger cap, or no cap), stated thoughtfully based on relational aims and attendee fit; some people thrive in smaller settings while others connect better in larger ones
+- **session attendance limits**: cap policy for sessions (intentionally small cap, larger cap, or no cap), stated thoughtfully based on relational aims and attendee fit; some people thrive in smaller settings while others connect better in larger ones
 
 ### Communications Support Role
 
@@ -140,31 +140,39 @@ This is awareness-building, not pressure recruitment: making opportunities visib
 
 I will provide a list of newly launched groups each trimester for the announcement.
 
-I will also provide an annual report to leadership on participation, movement from feelers to series, and overall fruit/sustainability. At that point, leadership can decide whether to continue as-is, adjust, or stop.
+I will also provide an annual report to leadership on participation, movement from sessions to series, and overall fruit/sustainability. At that point, leadership can decide whether to continue as-is, adjust, or stop.
 
 ## Leadership Supports Required
 
 To launch and sustain this ministry model, I am requesting the following leadership supports:
 
 1. Approve launch of Hospitality Groups as a standing ministry initiative.
-2. Assign web support to build and configure the Hospitality Groups page and Hospitality Events page before launch.
+2. Assign web support to build and configure the Hospitality Groups page and Hospitality Sessions page before launch.
 3. Assign communications support for launch messaging plus 3 annual reminder mentions (trimester cadence), using the brief I provide and including mention of newly launched groups.
 4. Receive one annual report and provide continuation guidance (continue, adjust, or stop).
 
+## Fostering Intimacy
+
+Some Hospitality Groups will begin with sessions and, after people have sampled the offering, move into a series if there is mutual interest and the host believes continuity will serve the group well.
+
+That continuity is the setting where intimacy is most likely to grow: the same people, returning over time, with more room for trust, familiarity, and honest conversation.
+
+But continuity is not required for every group. Some Hospitality Groups may remain session-only by design. That is still a valid outcome. The point is to make room for both paths: one-off sessions where that fits best, and seasonal series where deeper connection is the aim.
+
 ## Success Metrics
 
-The success metric is number of **series** completed annually.
+The success metric is number of **sessions** completed annually.
 
-- **Healthy:** 5–6 completed series/year
-- **Strong:** 8+ completed series/year
+- **Healthy:** 12 sessions/year
+- **Strong:** 24+ sessions/year
 
 If healthy (allow for a half measure in year one) the ministry is working.
 
-Secondary indicators (hosts, registrants, feelers) are useful leading signals, but they are not the main outcome.
+Secondary indicators (hosts, registrants, sessions) are useful leading signals, but they are not the main outcome.
 
 Groups may remain quiet for long periods, or close without being treated as failure. Group turnover is expected in an organic, opt-in model.
 
-Ministry-level concern is triggered only if it consistently fails to generate a healthy number of series.
+Ministry-level concern is triggered only if it consistently fails to generate a healthy number of sessions.
 
 Host burnout is not a risk in this design because the model is seasonal, low-pressure, and hosts may pause or close groups at will.
 
@@ -198,7 +206,7 @@ This lane should only be considered after Hospitality Groups has demonstrated su
 - **Automobile Maintenance**
 - **Yard Work**
 
-Some service groups may use the same lifecycle (host launches group -> registrants -> feelers -> series), while others may remain limited seasonal offerings with a finite number of service slots rather than ongoing series.
+Some service groups may use the same lifecycle (host launches group -> registrants -> sessions -> series), while others may remain limited seasonal offerings with a finite number of service slots rather than ongoing series.
 
 This creates room for gift-based service groups. A host may offer a practical skill they enjoy (for example auto maintenance or yard work) as a limited, seasonal offering to church members at no charge.
 
@@ -206,7 +214,7 @@ This is a script flip: the church is not centrally initiating these service oppo
 
 Expectation management is essential: registrants should understand that opportunities are seasonal, capacity-limited, and may fill before everyone receives a slot.
 
-This creates a low-stakes way to test service ideas without pressure. People can register based on real interest, try a feeler, and then opt into a short seasonal series if there is fit. This can create a low-pressure way for people who are weary of formal ministry signups to dip a toe in the pool (feeler), then ease into the shallow end (series). It is often easier to sample a service opportunity with a defined end date.
+This creates a low-pressure way for people to engage service ideas. People can register based on real interest, join a session, and then opt into a short seasonal series if there is fit. It is often easier to sample a service opportunity with a defined end date.
 
 A key added benefit is relational intention among participants themselves. In this model, serving is not only about the people being served; it is also about knowing and being known by the people serving beside you.
 
