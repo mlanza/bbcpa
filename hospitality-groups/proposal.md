@@ -2,7 +2,7 @@
 
 - **Church:** Bible Baptist Church
 - **Author:** Mario T. Lanza
-- **Date:** October 11, 2026
+- **Date:** October 17, 2026
 - **Audience:** Elders
 
 Working draft for elder review and approval.
