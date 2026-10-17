@@ -1,0 +1,49 @@
+
+{
+  "period": "average two-week period",
+  "unit": "one volunteer slot",
+  "people": [
+    {"id": "alex",  "name": "Alex",  "capacity": 5},
+    {"id": "beth",  "name": "Beth",  "capacity": 2},
+    {"id": "chris", "name": "Chris", "capacity": 1},
+    {"id": "dana",  "name": "Dana",  "capacity": 4},
+    {"id": "evan",  "name": "Evan",  "capacity": 3},
+    {"id": "faith", "name": "Faith", "capacity": 1}
+  ],
+  "ministries": [
+    {
+      "name": "Facility Watch",
+      "demand": 7,
+      "assignments": {
+        "alex": 3,
+        "dana": 3,
+        "chris": 2
+      }
+    },
+    {
+      "name": "Greeters",
+      "demand": 5,
+      "assignments": {
+        "alex": 1,
+        "beth": 2,
+        "faith": 1
+      }
+    },
+    {
+      "name": "Worship Team",
+      "demand": 4,
+      "assignments": {
+        "dana": 1,
+        "evan": 2
+      }
+    },
+    {
+      "name": "Child Care",
+      "demand": 5,
+      "assignments": {
+        "alex": 1,
+        "dana": 1
+      }
+    }
+  ]
+}
