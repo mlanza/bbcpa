@@ -6,6 +6,8 @@ The Volunteer Advocate is responsible for protecting volunteer sustainability, i
 
 All problem analysis, strategy, and solutions below are subordinate to that role.
 
+**Related:** [[who-does-what.md]] — a single-list summary mapping each fix to the player who owns it and the oversight that binds them. This companion list should be periodically synced with this document.
+
 ## Problem Statement
 
 At BBC, we want to be intentional about how we care for people while pursuing kingdom work. Today, a small group of faithful people keeps covering most of the serving load, while many others are largely absent from regular participation.
@@ -109,7 +111,8 @@ Process design requirement:
 - Define a clear operating process so ministry leaders consistently log the required events.
 - Keep the process lightweight enough that people will actually use it.
 - Tie reporting cadence to that process so metrics stay current and trustworthy.
-- Track role-level data by ministry: jobs/positions, loose job description, slot duration (hours), and whether the slot is on-service or off-hours.
+- Track role-level data by ministry: jobs/positions, loose job description, slot duration (hours), slot frequency, number of slots needed per period, and whether the slot is on-service or off-hours. **Recruiting someone into a role without knowing its demand is unfair — people must know what they are signing up for.**
+- Track volunteer capacity: each volunteer's available slots (days and times) and hard constraints. **Reallocation is only possible when we can see where a person's time actually is.**
 
 ### Natural Promotion
 
@@ -134,11 +137,13 @@ Policy concept:
 - Treat all ministry work (including off-hours work) as shift slots.
 - If a needed role is close in time/place and comparable in duration, ask for a shift trade (A to B), not an added assignment.
 - If time/place is materially different, treat it as a true extra ask and handle separately.
+- A shift trade is only possible when job demand and volunteer capacity are both recorded (see System and Data Requirements below).
 
 Rationale:
 - A marginal ask is easier to accept than a net-new commitment.
 - Trades keep total load steadier while still covering higher-priority roles.
 - This supports a volunteer-advocate posture: protect people from accumulation while still meeting ministry needs.
+- Reallocation is only fair when both sides are measured — the slot's demand and the volunteer's available windows.
 
 ### Special Event Planning
 
@@ -167,3 +172,55 @@ Rationale:
 - When people feel instrumentally used, they protect downtime and disengage.
 - Overextension eventually reduces willingness even for positive, blessing-oriented invitations.
 - Healthy margin supports retention, trust, and long-term joy in serving.
+
+## Volunteer Advocate Workflow (Draft)
+
+This role has to be manageable. It cannot run as a solo hero effort or depend on heavy new admin work from everyone else.
+
+Monthly workflow:
+1. Pull current ministry staffing and slot data from Planning Center.
+2. Flag risk areas (below minimal staffing, high call-off patterns, repeated fill-ins by same people).
+3. Review First Call Queue and recent gap recovery activity.
+4. Send a brief ministry-health snapshot to relevant leaders (one screen, high signal).
+5. Propose specific adjustments (slot trades, buffer scheduling, role progression moves).
+6. Confirm owners and next actions with lightweight follow-up.
+
+Twice-yearly workflow:
+1. Publish the full cross-ministry staffing report.
+2. Compare trends vs prior period (coverage reliability, load concentration, queue size, event pressure).
+3. Recommend structural changes before next cycle (staffing targets, role redesign, initiative pacing).
+4. Share a congregation-facing summary that reinforces care for people, not just output.
+
+Operating principles:
+- Keep coordination lightweight and repeatable.
+- Ask for only the minimum new inputs needed to make decisions.
+- Prefer visible process over ad hoc heroics.
+
+The owner-and-overview of every fix is consolidated in [[who-does-what.md]] for periodic sync.
+
+## Required Behavior Changes
+
+For this system to work, a few behavior changes are required:
+
+Leadership:
+- Plan ministries and special events with staffing reality, not hope.
+- Stop normalizing emergency asks as standard operations.
+- Treat volunteer sustainability as a pastoral responsibility, not just an operations issue.
+
+Ministry leaders:
+- Log call-offs, self-replacements, and fill-ins consistently.
+- Maintain accurate role/slot definitions (including shift duration and off-hours work).
+- Use shift trades and progression moves before asking people to stack second jobs.
+
+Volunteers:
+- Give early notice when unavailable.
+- When possible, self-replace or respond to First Call Queue requests to make up missed coverage.
+- Understand that fair follow-through is part of shared commitment, not punishment.
+
+Volunteer Advocate:
+- Maintain clean data and clear reporting cadence.
+- Keep asks fair, specific, and load-aware.
+- Surface pressure trends early and recommend scope limits when capacity is not there.
+
+System-level requirement:
+- Added dependencies must stay small, clear, and consistent. If this feels heavy to operate, adoption will fail.
