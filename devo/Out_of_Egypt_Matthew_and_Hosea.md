@@ -2,6 +2,12 @@
 
 *How Matthew connects Jesus to Israel*
 
+Example: Matthew 2:15 connects Jesus coming out of Egypt with Hosea 11:1, showing a pattern between God’s past actions with Israel and what God is now doing through Jesus.
+
+> Matthew: He stayed there until the death of Herod; this happened so that what had been spoken by the Lord through the prophet would be fulfilled: “OUT OF EGYPT I CALLED MY SON.”
+
+> Hosea: When Israel was a youth I loved him, And out of Egypt I called My son.
+
 ## The central connection
 
 Matthew 2:15 quotes Hosea 11:1: “Out of Egypt I called My son.” Hosea is recalling Israel’s exodus, not directly predicting a future journey by Jesus. Matthew sees Israel’s history as a pattern brought to its fullest expression in Christ. This way of reading Scripture is called typology.
